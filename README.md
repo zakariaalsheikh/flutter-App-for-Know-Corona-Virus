@@ -12,7 +12,7 @@
 
 ![ #Screen Shot 1 :](screen/a1.jpg)
 
-![#Screen Shot 2  :](screen/b1.jpg)
+![#Screen Shot 2  :](screen/b2.jpg)
 
 
-![#Screen Shot 3:](screen/b2.jpg)
+![#Screen Shot 3:](screen/b3.jpg)
