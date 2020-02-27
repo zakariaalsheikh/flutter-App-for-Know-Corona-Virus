@@ -1,6 +1,6 @@
 # flutter-App-for-Know-Corona-Virus
 
-# Know same Libraries :
+# Know few Libraries :
 
 *onesignal_flutter: ^2.0.0
 
