@@ -10,4 +10,4 @@
 
 *firebase_core: ^0.4.0+6
 
-![](screen/a1.JPEG)
+![](screen/a1.jpg)
